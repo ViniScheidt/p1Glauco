@@ -1,0 +1,14 @@
+﻿Resumo Palestra
+
+
+Na palestra, apresentada pelos funcionários da TOTVS, foi introduzida a metodologia híbrida(Kanban e SCRUM) na qual estão se adequando, organizando os setores de sua empresa em  “Tribos”, tanto como a definição dos encontros feitos entre as mesmas. Um ponto interessante apresentado foi a mudança de entrega do produto para o cliente, que passou de ser única e com alto risco, para diversas entregas, diminuindo o valor e risco ao longo do período.
+Outro ponto que foi mostrado para nós é a organização com reuniões diárias curtas Daily Scrum.
+
+
+Durante a apresentação também foram trazidas informações da diferenciação da metodologia Kanban e o framework SCRUM. No qual o Scrum é fracionar o trabalho em intervalos predefinidos(Sprints), já o Kanban que utiliza um sistema visual(post-its), tornando mais claro.
+
+
+Outro ponto que foi conversado foi sobre a interação com o cliente, onde os mesmos inseriram ideias que poderiam contribuir com o produto, e aquelas que forem mais bem avaliadas entram no escopo.
+
+
+E por fim, o plano de carreira Y da empresa se torna interessante, caso você queira seguir uma carreira mais técnica ou gestacional.
